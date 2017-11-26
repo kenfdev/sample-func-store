@@ -1,8 +1,13 @@
 [
   {
-    "title": "Sample Function1"
+    "title": "Inception Function",
+    "image": "alexellis/inception",
+    "name": "inception",
+    "fprocess": "python3 index.py"
   },
   {
-    "title": "Sample Function2"
+    "title": "Dockerhub Stats Function",
+    "image": "functions/hubstats",
+    "name": "hubstats"
   }
 ]
