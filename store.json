@@ -8,6 +8,13 @@
     "fprocess": "python3 index.py"
   },
   {
+    "icon": "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png",
+    "title": "Github Stats Function",
+    "description": "A function to collect github stats for an Organization",
+    "image": "kenfdev/github-stats",
+    "name": "github-stats"
+  },
+  {
     "icon": "https://raw.githubusercontent.com/docker-library/docs/b449be7df57e9ed9086bb5821bfb5d6cdc5d67a4/docker-dev/logo.png",
     "title": "Dockerhub Stats Function",
     "description": "Golang function gives the count of repos a user has on the Docker hub",
