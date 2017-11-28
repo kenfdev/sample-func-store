@@ -1,12 +1,16 @@
 [
   {
+    "icon": "https://d30y9cdsu7xlg0.cloudfront.net/png/22598-200.png"
     "title": "Inception Function",
+    "description": "This is a forked version of the work by Magnus Erik Hvass Pedersen - it has been re-packaged as an OpenFaaS serverless function."
     "image": "alexellis/inception",
     "name": "inception",
     "fprocess": "python3 index.py"
   },
   {
+    "icon": "https://raw.githubusercontent.com/docker-library/docs/b449be7df57e9ed9086bb5821bfb5d6cdc5d67a4/docker-dev/logo.png"
     "title": "Dockerhub Stats Function",
+    "description": "Golang function gives the count of repos a user has on the Docker hub"
     "image": "functions/hubstats",
     "name": "hubstats"
   }
